@@ -1,3 +1,9 @@
+NAMA : Alden Dzakwan S
+
+Kelas/No : 2G/02
+
+NIM : 254107020106
+
 **Output program**
 
 Beranda
